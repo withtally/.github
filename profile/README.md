@@ -1,7 +1,6 @@
-# .github
+# Tally.xyz
 
 
-### 👋🏽
 Tally builds safe, neutral and standardized governance infrastructure for the most valuable protocols in Ethereum. 
 
 
