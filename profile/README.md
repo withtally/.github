@@ -3,7 +3,7 @@
 
 Tally builds safe, neutral and open governance infrastructure for the most valuable protocols in Ethereum. 
 
-We build on the OpenZeppelin Governer framework, the most secure and battle tested implementation of Governance. 
+We build on the OpenZeppelin Governer framework, the most secure and battle tested implementation of governance. 
 
 Tally provides tools and infrastructure for creating and managing on-chain DAOs on the Ethereum blockchain. It offers a user-friendly interface for users to create, join, and participate in DAOs without requiring extensive technical knowledge. Tally helps simplify the process of DAO creation, proposal submission, voting, and treasury management. It aims to make DAOs more accessible and easier to operate, enabling a wider adoption of decentralized governance.
 
