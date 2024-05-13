@@ -16,6 +16,10 @@ Tally provides tools and infrastructure for creating and managing onchain DAOs o
 
 - [Tally's Governor deployer tool](https://github.com/withtally/gov-deployer) makes it easy to deploy a Governor DAO
 
+### How can I get a DAO onto Tally?
+
+Tally offers [self-serve tools](https://docs.tally.xyz/knowledge-base/managing-a-dao) and a [white-glove DAO launch service](https://docs.tally.xyz/premium-features/dao-launcher). To learn more about the DAO launch service, contact biz@tally.xyz.
+
 ### What smart contracts does Tally support?
 
 #### OpenZeppelin Govenor
