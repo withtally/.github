@@ -1,3 +1,4 @@
+![digital hand and human hand touching](header_light.png)
 
 # Tally.xyz
 
