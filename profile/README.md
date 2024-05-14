@@ -1,6 +1,5 @@
-![digital hand and human hand touching](header_light.png)
-
 # Tally.xyz
+![header_light](https://github.com/withtally/.github/assets/334476/e6fa3211-ffa2-47bc-b104-955a994240f4)
 
 
 Tally builds safe, neutral and open governance infrastructure for the most valuable protocols and infrastructure running on Ethereum and Solana. 
